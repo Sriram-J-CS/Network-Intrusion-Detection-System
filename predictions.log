@@ -1,0 +1,80 @@
+2026-03-07 03:07:30,954 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 03:07:30,957 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 03:07:30,971 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 03:07:30,982 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 03:07:31,153 [WARNING]  * Debugger is active!
+2026-03-07 03:07:31,154 [WARNING]  * Debugger is active!
+2026-03-07 03:07:31,199 [INFO]  * Debugger PIN: 591-190-817
+2026-03-07 03:07:31,201 [INFO]  * Debugger PIN: 591-190-817
+2026-03-07 04:42:01,036 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 04:42:01,070 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 04:42:01,164 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-07 04:42:01,164 [INFO] [33mPress CTRL+C to quit[0m
+2026-03-07 04:42:01,171 [INFO]  * Restarting with stat
+2026-03-07 04:42:10,996 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 04:42:11,004 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 04:42:11,110 [WARNING]  * Debugger is active!
+2026-03-07 04:42:11,149 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 04:47:25,144 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\ids_model.py', reloading
+2026-03-07 04:47:26,747 [INFO]  * Restarting with stat
+2026-03-07 04:47:38,070 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 04:47:38,078 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 04:47:38,147 [WARNING]  * Debugger is active!
+2026-03-07 04:47:38,156 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 04:49:30,591 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\app.py', reloading
+2026-03-07 04:49:31,579 [INFO]  * Restarting with stat
+2026-03-07 04:49:46,296 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 04:49:46,304 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 04:59:13,476 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 04:59:13,482 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 04:59:13,588 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-07 04:59:13,590 [INFO] [33mPress CTRL+C to quit[0m
+2026-03-07 04:59:13,598 [INFO]  * Restarting with stat
+2026-03-07 04:59:19,106 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 04:59:19,111 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 04:59:19,158 [WARNING]  * Debugger is active!
+2026-03-07 04:59:19,163 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 05:01:03,250 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\predict_attack.py', reloading
+2026-03-07 05:01:04,346 [INFO]  * Restarting with stat
+2026-03-07 05:01:10,790 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 05:01:10,794 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 05:01:10,828 [WARNING]  * Debugger is active!
+2026-03-07 05:01:10,834 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 06:26:11,585 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\preprocess_attack_encoder.py', reloading
+2026-03-07 06:26:12,714 [INFO]  * Restarting with stat
+2026-03-07 06:26:23,468 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 06:26:23,476 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 06:26:23,647 [WARNING]  * Debugger is active!
+2026-03-07 06:26:23,675 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 06:43:58,866 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\predict_attack.py', reloading
+2026-03-07 06:43:59,865 [INFO]  * Restarting with stat
+2026-03-07 06:44:09,607 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 06:44:09,618 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 06:44:09,699 [WARNING]  * Debugger is active!
+2026-03-07 06:44:09,714 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 06:46:34,917 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\traffic_simulator.py', reloading
+2026-03-07 06:46:36,175 [INFO]  * Restarting with stat
+2026-03-07 06:46:43,613 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 06:46:43,619 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 06:46:43,658 [WARNING]  * Debugger is active!
+2026-03-07 06:46:43,665 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 06:52:17,241 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\ids_model.py', reloading
+2026-03-07 06:52:18,310 [INFO]  * Restarting with stat
+2026-03-07 06:52:27,125 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 06:52:27,129 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 06:52:27,170 [WARNING]  * Debugger is active!
+2026-03-07 06:52:27,178 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 07:05:13,031 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\predict_attack.py', reloading
+2026-03-07 07:05:14,432 [INFO]  * Restarting with stat
+2026-03-07 07:05:20,762 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 07:05:20,768 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 07:05:20,799 [WARNING]  * Debugger is active!
+2026-03-07 07:05:20,809 [INFO]  * Debugger PIN: 111-363-663
+2026-03-07 08:41:27,638 [INFO]  * Detected change in 'C:\\Users\\saika\\OneDrive\\Documents\\IDS BACKEND\\traffic_simulator.py', reloading
+2026-03-07 08:41:28,774 [INFO]  * Restarting with stat
+2026-03-07 08:41:35,550 [WARNING] TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-07 08:41:35,559 [WARNING] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-03-07 08:41:35,617 [WARNING]  * Debugger is active!
+2026-03-07 08:41:35,627 [INFO]  * Debugger PIN: 111-363-663
